@@ -30,7 +30,7 @@ With these 15, 595 users and their user identity in the six OSNs,
     other public social datasets, 
     we release the post ID and its user identity instead.   
     
-**If you use our dataset, please cite our ASONAM 2015 paper.  Thanks!**
+**If you use our dataset, please cite our [ASONAM](http://www.comp.nus.edu.sg/~kanmy/papers/asonam15.pdf) 2015 paper.  Thanks!**
 
 
 ##Dataset
@@ -50,13 +50,11 @@ the acutal posts via respective APIs. Read our <a href="instructions.md" target=
 Alternatively, you can download a <A HREF="aboutme.tar.gz">compressed (643M)</A> version of these seven files.
 
 ##Publications
-Bang Hui Lim, Dongyuan Lu, Tao Chen and Min-Yen Kan (2015).#mytweet via   Instagram: Exploring User Behaviour across Multiple Social Networks. In Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'15), Paris, France, Aug 25-28, 2015.
-          [&nbsp;<A HREF="http://wing.comp.nus.edu.sg/portal/publications.html?view=publication&task=show&id=218">More</A>&nbsp;]
-          [&nbsp;<A HREF="http://wing.comp.nus.edu.sg/publications/2015/lim-et-al-15.pdf">Digital Version</A>&nbsp;]
+Bang Hui Lim, Dongyuan Lu, Tao Chen and Min-Yen Kan (2015).[#mytweet via   Instagram: Exploring User Behaviour across Multiple Social Networks](http://www.comp.nus.edu.sg/~kanmy/papers/asonam15.pdf). In Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'15), Paris, France, Aug 25-28, 2015.
 
 ##Group Members
 * Bang Hui Lim
 * Dongyuan Lu
-* <a href="http://www.cs.jhu.edu/~taochen/">Tao Chen</A>
-* <a href="http://www.comp.nus.edu.sg/~kanmy/">Min-Yen Kan</A> - Group lead
+* <a href="http://www.cs.jhu.edu/~taochen/">Tao Chen</a>
+* <a href="http://www.comp.nus.edu.sg/~kanmy/">Min-Yen Kan</a> - Group lead
 
