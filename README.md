@@ -38,7 +38,7 @@ This is a mysql dump file that contains user's profile name in about.me and thei
 * <A HREF="dataset/about_me.sql">about_me.sql (1.5MB) </A>
 
 The following six dump files contain the post IDs and their user identities in the corresponding OSN. You can use the user identities in aboutme.sql to link user's activities in multiple social networks. With the post IDs, you can further pull
-the acutal posts via respective APIs. Read our <a href="instructions.html" target="_blank">tutorial</a> on using these APIs.
+the acutal posts via respective APIs. Read our <a href="instructions.md" target="_blank">tutorial</a> on using these APIs.
       
 * <A HREF="dataset/flickr_photo_id.sql">flickr_photo_id.sql (331MB) </A>     
 * <A HREF="dataset/googleplus_post_id.sql">googleplus_post_id.sql (177MB) </A>
