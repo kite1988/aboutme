@@ -1,6 +1,5 @@
 # About.Me Dataset for User-centric OSN Analysis
 
-##Introduction
 A user-centric study of cross Online Social Network (OSN) behavior requires a collective study of many individual users, each of whom use multiple OSNs. We purposefully sidestep the issue of user linkage to focus our attention on user behavior.
      
 We leverage an OSN aggregation service called <a href="https://about.me/">About.me </a>, which enables people to easily create a public online identity that unifies a self-described short biography with prominent links to the person’s other OSN accounts and personal websites.
