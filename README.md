@@ -33,7 +33,7 @@ With these 15, 595 users and their user identity in the six OSNs,
 **If you use our dataset, please cite our ASONAM 2015 paper.  Thanks!**
 
 
-###Dataset
+##Dataset
 This is a mysql dump file that contains user's profile name in about.me and their user identities in the six OSNs. 
 * <A HREF="dataset/about_me.sql">about_me.sql (1.5MB) </A>
 
@@ -49,12 +49,12 @@ the acutal posts via respective APIs. Read our <a href="instructions.md" target=
 
 Alternatively, you can download a <A HREF="aboutme.tar.gz">compressed (643M)</A> version of these seven files.
 
-###Publications
+##Publications
 Bang Hui Lim, Dongyuan Lu, Tao Chen and Min-Yen Kan (2015).#mytweet via   Instagram: Exploring User Behaviour across Multiple Social Networks. In Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'15), Paris, France, Aug 25-28, 2015.
           [&nbsp;<A HREF="http://wing.comp.nus.edu.sg/portal/publications.html?view=publication&task=show&id=218">More</A>&nbsp;]
           [&nbsp;<A HREF="http://wing.comp.nus.edu.sg/publications/2015/lim-et-al-15.pdf">Digital Version</A>&nbsp;]
 
-###Group Members
+##Group Members
 * Bang Hui Lim
 * Dongyuan Lu
 * <a href="http://www.cs.jhu.edu/~taochen/">Tao Chen</A>
