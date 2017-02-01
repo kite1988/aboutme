@@ -40,14 +40,14 @@ This is a mysql dump file that contains user's profile name in about.me and thei
 The following six dump files contain the post IDs and their user identities in the corresponding OSN. You can use the user identities in aboutme.sql to link user's activities in multiple social networks. With the post IDs, you can further pull
 the acutal posts via respective APIs. Read our <a href="instructions.md" target="_blank">tutorial</a> on using these APIs.
       
-* <A HREF="dataset/flickr.sql.zip">flickr.sql (53MB) </A>     
-* <A HREF="dataset/googleplus.sql.zip">googleplus.sql (34MB) </A>
-* <A HREF="dataset/instagram.sql.zip">instagram.sql (19MB) </A> 
-* <A HREF="dataset/tumblr.sql.zip">tumblr.sql (49MB) </A>
+* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUUjJLVERRT2Q3ZTg">flickr.sql (53MB) </A>     
+* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUeXlXQ1ZyNU9zUVE">googleplus.sql (34MB) </A>
+* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUWUltek5lOGlaUGs">instagram.sql (19MB) </A> 
+* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUMUZTSmFyNmFia1U">tumblr.sql (49MB) </A>
 * <A HREF="dataset/twitter.sql.zip">twitter.sql(479MB) </A>
-* <A HREF="dataset/youtube.sql.zip">youtube.sql (19MB) </A>
+* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUYU9iT28wWV91NE0">youtube.sql (19MB) </A>
 
-Alternatively, you can download a <A HREF="aboutme_all.zip">compressed (652M)</A> version of these seven files.
+Alternatively, you can download a <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUckZzd3N0d3habFk">compressed (652M)</A> version of these seven files.
 
 ##Publications
 Bang Hui Lim, Dongyuan Lu, Tao Chen and Min-Yen Kan (2015).[#mytweet via   Instagram: Exploring User Behaviour across Multiple Social Networks](http://www.comp.nus.edu.sg/~kanmy/papers/asonam15.pdf). In Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'15), Paris, France, Aug 25-28, 2015.
