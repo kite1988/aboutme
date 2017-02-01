@@ -44,7 +44,7 @@ the acutal posts via respective APIs. Read our <a href="instructions.md" target=
 * <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUeXlXQ1ZyNU9zUVE">googleplus.sql (34MB) </A>
 * <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUWUltek5lOGlaUGs">instagram.sql (19MB) </A> 
 * <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUMUZTSmFyNmFia1U">tumblr.sql (49MB) </A>
-* <A HREF="dataset/twitter.sql.zip">twitter.sql(479MB) </A>
+* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUMU0tdEJKYng5WGc">twitter.sql(479MB) </A>
 * <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUYU9iT28wWV91NE0">youtube.sql (19MB) </A>
 
 Alternatively, you can download a <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUckZzd3N0d3habFk">compressed (652M)</A> version of these seven files.
