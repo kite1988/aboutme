@@ -1,11 +1,11 @@
-##Introduction
+## Introduction
 
 As most OSNs do not permit the third-party release of content posted on them,
 we have only included the IDs of the users and posts in our dataset. These
 can be used to retrieve the actual post content from each OSN's API - this
 document provides a brief overview of how this might be done.
 
-###IDs
+### IDs
 A user ID corresponds to a single user profile on an OSN, while an activity
 ID corresponds to a single activity (post, image, etc.) on an OSN. These
 concepts remain the same across OSNs, though each OSN uses a different
@@ -61,7 +61,7 @@ also different:
 </tbody>
 </table>
 
-###Finding User Activity Across Networks
+### Finding User Activity Across Networks
 The various <code>iden</code> columns in the <code>about_me</code> table correspond to the User ID
 columns in each OSN's table. For example, given the following (ficticious, truncated) record in <code>about_me</code>:
 table>
@@ -89,7 +89,7 @@ This user's Flickr posts can be found by retrieving all records in
 Their Google+ posts can be found in a similar manner:
 <code>SELECT * FROM dataset.googleplus_photo_id WHERE user_id = '1234567';</code>
 
-###Retrieving Post Content
+### Retrieving Post Content
 This process differs between OSNs, and is best accomplished by using
 an appropriate client library for your programming language of choice.
 This section provides basic instructions using Python 3, which are accurate
@@ -164,7 +164,7 @@ guide.
 
   </code></pre>
   
-##2. Google+
+## 2. Google+
 * Client Library Setup
 
   This guide uses the <a href="https://developers.google.com/api-client-library/python/">Google APIs Client Library for Python</a>.
@@ -214,7 +214,7 @@ guide.
         print(post_details)
     </code></pre>
 
-##3. Instagram
+## 3. Instagram
 <blockquote>
 <strong>Note that Instagram now requires developers to submit their application
 for review before allowing full access to their API.</strong> In the case of
@@ -283,7 +283,7 @@ we are unable to comment on whether or not a research application will be approv
       print(post)
   </code></pre>
   
-##4. Tumblr
+## 4. Tumblr
 * Client Library Setup
  
   This guide uses Tumblr's <a href="https://github.com/tumblr/pytumblr">pytumblr</a> library. 
@@ -341,7 +341,7 @@ we are unable to comment on whether or not a research application will be approv
       print(post)
   </code></pre>
   
-##5. Twitter
+## 5. Twitter
 * Client Library Setup
 
   This guide uses the <a href="https://github.com/tweepy/tweepy">tweepy</a> library. Its
