@@ -49,7 +49,7 @@ the acutal posts via respective APIs. Read our <a href="instructions.md" target=
 
 Alternatively, you can download a <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUckZzd3N0d3habFk">compressed (652M)</A> version of these seven files.
 
-Note: these files are hosted by Google Drive.
+**Note: these files are hosted by Google Drive.**
 
 ## Publications
 Bang Hui Lim, Dongyuan Lu, Tao Chen and Min-Yen Kan (2015).[#mytweet via   Instagram: Exploring User Behaviour across Multiple Social Networks](http://www.comp.nus.edu.sg/~kanmy/papers/asonam15.pdf). In Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM'15), Paris, France, Aug 25-28, 2015.
