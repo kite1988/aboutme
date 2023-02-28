@@ -35,19 +35,20 @@ With these 15, 595 users and their user identity in the six OSNs,
 
 ## Dataset
 This is a mysql dump file that contains user's profile name in about.me and their user identities in the six OSNs. 
-* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUQTFkUWV6bUthcVk">about_me.sql (727K) </A>
+* <A HREF="https://drive.google.com/file/d/0Bxi6M1XYLbjUQTFkUWV6bUthcVk/view?usp=sharing&resourcekey=0-nSKcHtkLi2sVNETlBUA8Hw">about_me.sql (727K) </A>
 
 The following six dump files contain the post IDs and their user identities in the corresponding OSN. You can use the user identities in aboutme.sql to link user's activities in multiple social networks. With the post IDs, you can further pull
 the acutal posts via respective APIs. Read our <a href="instructions.md" target="_blank">tutorial</a> on using these APIs.
       
-* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUUjJLVERRT2Q3ZTg">flickr.sql (53MB) </A>     
-* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUeXlXQ1ZyNU9zUVE">googleplus.sql (34MB) </A>
-* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUWUltek5lOGlaUGs">instagram.sql (19MB) </A> 
-* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUMUZTSmFyNmFia1U">tumblr.sql (49MB) </A>
-* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUMU0tdEJKYng5WGc">twitter.sql(479MB) </A>
-* <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUYU9iT28wWV91NE0">youtube.sql (19MB) </A>
+* <A HREF="https://drive.google.com/file/d/0Bxi6M1XYLbjUUjJLVERRT2Q3ZTg/view?usp=sharing&resourcekey=0-fbTu8Vn66vNhisa-mMO5vA">flickr.sql (53MB) </A>     
+* <A HREF="https://drive.google.com/file/d/0Bxi6M1XYLbjUeXlXQ1ZyNU9zUVE/view?usp=sharing&resourcekey=0-W3LQnd2jHlRFepxdVYqR9A">googleplus.sql (34MB) </A>
+* <A HREF="https://drive.google.com/file/d/0Bxi6M1XYLbjUWUltek5lOGlaUGs/view?usp=sharing&resourcekey=0-f0ORIK2NbzjExX5skFZgqw">instagram.sql (19MB) </A> 
+* <A HREF="https://drive.google.com/file/d/0Bxi6M1XYLbjUMUZTSmFyNmFia1U/view?usp=sharing&resourcekey=0-jJqGEMd7O49eeG8cv2mBCQ">tumblr.sql (49MB) </A>
+* <A HREF="https://drive.google.com/file/d/0Bxi6M1XYLbjUMU0tdEJKYng5WGc/view?usp=sharing&resourcekey=0-hcKjQM0KlMH3Ad5bDh6vlg">twitter.sql(479MB) </A>
+* <A HREF="https://drive.google.com/file/d/0Bxi6M1XYLbjUYU9iT28wWV91NE0/view?usp=sharing&resourcekey=0-5Wow12Kd_gCAN4o1kENJUg">youtube.sql (19MB) </A>
 
-Alternatively, you can download a <A HREF="https://drive.google.com/open?id=0Bxi6M1XYLbjUckZzd3N0d3habFk">compressed (652M)</A> version of these seven files.
+Alternatively, you can download a <A HREF="https://drive.google.com/file/d/0Bxi6M1XYLbjUckZzd3N0d3habFk/view?usp=sharing&resourcekey=0-Pkd6Nfxq-3o8m0qa-fMSrw">compressed (652M)</A> version of these seven files.
+
 
 **Note: these files are hosted by Google Drive.**
 
